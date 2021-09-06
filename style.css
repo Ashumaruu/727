@@ -1,0 +1,21 @@
+div {color:yellow;
+   text-align:center
+}
+
+body {
+    background-image: url(images/anime-found.gif);
+    background-position: center;
+    background-size: cover;
+
+}
+#headline1 {
+  background-image: url(images/anime-found.gif);
+  background-position: left;
+}
+.videoDiv
+{
+    width: 70%; /*or whatever % you prefer*/
+    margin: 0 auto;
+    display: block;
+}
+
